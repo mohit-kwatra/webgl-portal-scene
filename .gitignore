@@ -4,3 +4,5 @@
 # others
 /resources
 /static/draco
+# Local Netlify folder
+.netlify

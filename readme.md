@@ -1,4 +1,4 @@
-# Three.js Journey
+# WebGL Portal Scene
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
